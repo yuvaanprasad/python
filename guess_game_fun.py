@@ -1,6 +1,6 @@
 """guess_game_fun
 
-Guess Game with a Fun ction
+Guess Game with a Function
 
 In this project the guess game is recast using a function"""
 
