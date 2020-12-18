@@ -1,0 +1,6 @@
+git config --global user.name "Yuvaan Prasad"
+git config --global user.email "yuvaan.prasad.09@gmail.com"
+
+git clone
+
+cd python
